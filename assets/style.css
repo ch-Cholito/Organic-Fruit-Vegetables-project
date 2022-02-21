@@ -1,0 +1,162 @@
+.header {
+    width: 1240px;
+    height: 100px;
+    margin-top: 39px;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding-top: 25px;
+
+}
+
+#planettop {
+    opacity: 0.5;
+    position: absolute;
+    left: 692px;
+    ;
+    right: 48.06%;
+    top: 39px;
+    bottom: 98%;
+}
+
+
+
+nav {
+    width: 450px;
+    height: 24px;
+}
+
+.nav {
+    font-family: DM Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 24px;
+    color: black;
+    margin-right: 40px;
+}
+
+a {
+    text-decoration: none;
+}
+
+#register {
+    position: absolute;
+    width: 160px;
+    height: 40px;
+    left: 1180.19px;
+    top: 58px;
+    background: #09A66D;
+    border-radius: 8px;
+}
+
+#registertext {
+    padding-left: 23px;
+    margin: 10px;
+    font-family: DM Sans, serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 20px;
+    color: #FFFFFF;
+}
+
+#eclips1 {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 1048.19px;
+    border-radius: 50%;
+    top: 58px;
+    background: #F3FBF8;
+}
+
+.icon {
+    margin: 8px;
+}
+
+#eclips2 {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 1108.19px;
+    top: 58px;
+}
+
+main {
+    height: 850px;
+    width: 1440px;
+    z-index: 1;
+    background: #F3FBF8;
+}
+
+#leaves {
+    position: absolute;
+    width: 621px;
+    height: 408px;
+    left: -3px;
+    top: 130px;
+    z-index: 2;
+}
+
+#h1 {
+    text-align: center;
+    padding-top: 95px;
+    margin: 0px;
+}
+
+#h1,
+#h2 {
+    font-family: Rosario;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 70px;
+    line-height: 90px;
+    z-index: 3;
+}
+
+
+p {
+    font-family: DM Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 30px;
+    text-align: center;
+    z-index: 3;
+    margin: 0px;
+}
+
+.p {
+    width: 637px;
+    text-align: center;
+    margin-left: 402px;
+    margin-top: 20px;
+
+
+}
+
+#order {
+    position: absolute;
+    width: 160px;
+    height: 40px;
+    left: 632px;
+    top: 498.97px;
+    background: #09A66D;
+    border-radius: 8px;
+    text-align: center;
+    padding-top: 7px;
+}
+
+#vegetables {
+
+    mix-blend-mode: multiply;
+}
+
+.flex {
+    width: 1440px;
+    display: inline-flex;
+    justify-content:space-around;
+
+}
+
+.aside{margin-bottom: 30px;}
